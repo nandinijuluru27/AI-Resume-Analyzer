@@ -53,3 +53,7 @@ The ATS-style score is an estimate based on skill matching. It does not guarante
 - Improve resume parsing accuracy.
 - Add downloadable analysis reports.
 - Expand skill extraction and job-role support.
+
+- ## Project Screenshot
+
+![AI Resume Analyzer Dashboard](screenshot.png)
