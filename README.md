@@ -6,6 +6,9 @@ A Python-based web application that analyzes resumes against job descriptions, c
 
 **[Try AI Resume Analyzer](https://ai-resume-analyzer-nandini.netlify.app/)**
 
+## 📸 Project Screenshot
+
+![AI Resume Analyzer Screenshot](screenshot.png)
 ## ✨ Features
 
 - 📄 Upload resumes in PDF format
